@@ -2,7 +2,7 @@
 
 O **Kaizen+** é um aplicativo mobile-first (disponível para Web e Android Nativo via Capacitor) de monitoramento de hábitos diários com gamificação profunda (pontos, níveis de XP, moedas, streaks de consistência, desafios e medalhas), integrado diretamente ao PostgreSQL via Supabase.
 
-```
+
 
 ## 🏷️ Versão do Projeto
 
