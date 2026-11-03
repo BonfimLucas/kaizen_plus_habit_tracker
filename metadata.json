@@ -1,0 +1,6 @@
+{
+  "name": "Kaizen+ | Rastreador de Hábitos",
+  "description": "Pequenos hábitos. Grandes resultados. Aplicativo de acompanhamento de hábitos diários com gamificação e métricas de progresso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

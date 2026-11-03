@@ -1,0 +1,9 @@
+{
+  "appId": "com.kaizen.plus",
+  "appName": "Kaizen+",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
+
